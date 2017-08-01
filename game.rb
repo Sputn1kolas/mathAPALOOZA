@@ -8,7 +8,8 @@ module Game
     end
 
     def start
-      puts "WELCOME TO HECK! \n*************************************"
+      puts "WELCOME TO HECK! \n*************************************
+      HAHAHAHAHAHAHAHAHAH"
       turn = Turn.new(@player1, @player2)
       turn.start
     end
